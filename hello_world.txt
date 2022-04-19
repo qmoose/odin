@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hello World!!!!
-=======
 Hello World!!
->>>>>>> parent of a46e053 (Edited hello_world.txt)
+
